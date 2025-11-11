@@ -140,8 +140,15 @@
     </td>
     </tr>
 </tbody></table></markdown-accessiblity-table>
-## <div align="left">🏆 Github Trophy</div>
+
+ <div align="left">🏆 Github Trophy</div>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=10&theme=gruvbox&no-frame=true"/>
+
+<p align="center"> 
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=ohspringlab&show_icons=true&theme=react&hide_border=true&border_radius=10" /> 
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohspringlab&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=ohspringlab&show_icons=true&theme=react&hide_border=true&border_radius=10" />
+</p>
 
 ## 📫 Let’s Connect
 - ✉️ Email: tony19960415@gmail.com 
