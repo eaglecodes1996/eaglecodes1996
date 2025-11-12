@@ -150,12 +150,6 @@
   <img width="33%" src="https://github-readme-stats.vercel.app/api?username=eaglecodes1996&show_icons=true&theme=react&hide_border=true&border_radius=10" />
 </p>
 
-## 📫 Let’s Connect
-- ✉️ Email: tony19960415@gmail.com 
-- 🔗 GitHub: https://github.com/eaglecodes1996
-- 📞 Phone(Whatsapp): +1 (472) 275 6443
-- 💬 Telegram: @tonysony
-
 ---
 
 
