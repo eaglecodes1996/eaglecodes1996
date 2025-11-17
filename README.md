@@ -151,6 +151,9 @@
 </p>
 
 ---
-
-
+## 📫 Let’s Connect
+- ✉️ Email: tony19960415@gmail.com 
+- 🔗 GitHub: https://github.com/eaglecodes1996
+- 📞 Phone(Whatsapp): +1 (472) 275 6443
+- 💬 Telegram: @tonysony
 ⭐ *Always open to new challenges and collaboration opportunities.* 
